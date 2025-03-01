@@ -1,0 +1,1 @@
+A coroutine is a way to write asynchronous code in a sequential manner. It’s a lightweight thread that doesn’t require the overhead of context switching. In the world of Kotlin, a coroutine is a piece of code that can be suspended and resumed without blocking the executing thread.
